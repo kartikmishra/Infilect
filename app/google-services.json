@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "644522791636",
+    "firebase_url": "https://infilect-85956.firebaseio.com",
+    "project_id": "infilect-85956",
+    "storage_bucket": "infilect-85956.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644522791636:android:5becce41e689394f436141",
+        "android_client_info": {
+          "package_name": "com.lokalhy.infilect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644522791636-pa5u88ssk37dsk0lm21jj5g2u211qh22.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lokalhy.infilect",
+            "certificate_hash": "171cd731d96a7d70ce96975b5bd341461a72afab"
+          }
+        },
+        {
+          "client_id": "644522791636-pts7um2h1uvbvu1esg4pru795d4h8rub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAqHrvopAp-F5bC7Sx4Q2u1yG5sZgZv-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644522791636-pts7um2h1uvbvu1esg4pru795d4h8rub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
